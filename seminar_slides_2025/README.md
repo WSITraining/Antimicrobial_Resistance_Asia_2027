@@ -3,7 +3,7 @@
 ## Purpose
 This directory is dedicated to hosting all seminar slide files, including presentation materials, supplementary resources, and notes necessary for effectively delivering seminar content.
 
-## Suggested File Types
+## Suggested File Types 
 - Presentation slides (PowerPoint, PDF)
 - Supplementary instructional materials (Markdown, PDF)
 - Speaker notes (Text files)
