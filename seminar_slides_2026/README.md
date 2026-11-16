@@ -1,8 +1,5 @@
 # Seminar Slides Directory Instructions
 
-- 🧬 [Wellcome Sanger Institute](https://www.sanger.ac.uk/)
-- 🧑‍💻 [Scientific Training and Events Website](https://coursesandconferences.wellcomeconnectingscience.org/)
-
 ## Purpose
 This directory is dedicated to hosting all seminar slide files, including presentation materials, supplementary resources, and notes necessary for effectively delivering seminar content.
 
@@ -27,5 +24,3 @@ Each seminar folder will typically contain:
 - **Supplementary Materials**: Any additional resources that support the seminar content.
 
 By following these guidelines, we can ensure that all seminar materials are organized and easily accessible for future reference.
-
----
